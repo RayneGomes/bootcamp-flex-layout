@@ -7,4 +7,6 @@
 </h3>
 
 ### Sobre o projeto
-Replicando layout do Tweeter com HTML5, CSS3 usando Flex Layout
+Replicando layout do Tweeter com HTML5, CSS3 usando Flex Layout.
+
+Você pode ver o projeto rodando em (https://raynegomes.github.io/bootcamp-flex-layout/).
